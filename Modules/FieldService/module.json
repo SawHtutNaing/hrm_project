@@ -1,0 +1,11 @@
+{
+    "name": "FieldService",
+    "alias": "fieldservice",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FieldService\\Providers\\FieldServiceServiceProvider"
+    ],
+    "files": ["helper/functions.php"]
+}

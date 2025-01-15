@@ -1,0 +1,3 @@
+[submodule "Modules/FieldService"]
+	path = Modules/FieldService
+	url = https://github.com/pico-inno/Field-Services.git
